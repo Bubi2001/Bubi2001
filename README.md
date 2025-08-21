@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Trencadís RTL](https://github.com/Bubi2001/Trencadis-RTL)
 
-- You can see my other projects at [my portfolio](https://bubi2001.github.io)
+- You can see my other projects at [my portfolio](https://Bubi2001.github.io)
 
 ### Languages and Tools
 
