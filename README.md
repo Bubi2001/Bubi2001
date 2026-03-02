@@ -2,6 +2,8 @@
 
 ## I'm a passionate Electronics Engineering Student with a love for the intersection of hardware and software. I specialize in taking ideas from digital logic all the way to physical hardware, from SystemVerilog to KiCAD and C
 
+- 🔭 I’m currently working on [Fabless-V: DC to Daylight](https://github.com/Bubi2001/FablessV) along my mate @AidarIglesias
+
 - 🔭 I’m currently working on [EmbedDSP](https://github.com/Bubi2001/EmbedDSP)
 
 - 🔭 I’m currently working on [Trencadís RTL](https://github.com/Bubi2001/Trencadis-RTL)
